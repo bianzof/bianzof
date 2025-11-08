@@ -1,7 +1,7 @@
 # Olá, eu sou a Bianca! 👋
 
-🎓 **Estudante de Programação**  
-💻 Focada em **Python** e **Node.js**  
+🎓 **Desenvolvedora de software**  
+💻 Stacks: **Python**, **Node.js** e **HTML/CSS** 
 🧠 Apaixonada por **Ciência de Dados**, **Inteligência Artificial** e **Desenvolvimento Back-end**  
 
 ---
