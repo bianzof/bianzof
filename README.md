@@ -2,7 +2,7 @@
 
 🎓 **Desenvolvedora de software**  
 💻 Stacks: **Python**, **Node.js** e **HTML/CSS** 
-🧠 Apaixonada por **Ciência de Dados**, **Inteligência Artificial** e **Desenvolvimento Back-end**  
+🧠 Apaixonada por **Ciência de Dados**, **Inteligência Artificial** e **Desenvolvimento FullStack**  
 
 ---
 
