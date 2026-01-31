@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedora Full Stack, apaixonada por tecnologia e aprendizado contínuo. Gosto de atuar tanto no front-end quanto no back-end, transformando ideias em soluções completas, funcionais e bem estruturadas.
+Sou desenvolvedora FullStack, apaixonada por tecnologia e aprendizado contínuo. Gosto de atuar tanto no front-end quanto no back-end, transformando ideias em soluções completas, funcionais e bem estruturadas.
 
 Tenho interesse especial em IA, automação e dados, buscando sempre evoluir tecnicamente e escrever código limpo, organizado e escalável.
 
