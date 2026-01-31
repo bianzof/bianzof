@@ -1,15 +1,16 @@
 # Olá, eu sou a Bianca! 👋
 
 🎓 **Desenvolvedora de software**  
-💻 Stacks: **Python**, **Node.js** e **HTML/CSS** 
+💻 Stacks: **Python**, **Node.js**, **JavaScript** e **HTML/CSS** 
 🧠 Apaixonada por **Ciência de Dados**, **Inteligência Artificial** e **Desenvolvimento FullStack**  
 
 ---
 
 ## Sobre mim
 
-Sou uma entusiasta da tecnologia em constante aprendizado, buscando transformar ideias em soluções através da programação.  
-Tenho interesse especial em explorar o universo dos dados e em construir aplicações robustas para o backend.
+Sou desenvolvedora Full Stack, apaixonada por tecnologia e aprendizado contínuo. Gosto de atuar tanto no front-end quanto no back-end, transformando ideias em soluções completas, funcionais e bem estruturadas.
+
+Tenho interesse especial em IA, automação e dados, buscando sempre evoluir tecnicamente e escrever código limpo, organizado e escalável.
 
 - 📚 Sempre aprendendo algo novo!
 - 🤖 Fascinada por IA e automação
